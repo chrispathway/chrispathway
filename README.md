@@ -1,29 +1,22 @@
 <div align="center">
 
-<br/>
+# I love solving complex problems
 
-<!-- Social Badges — Replace # with your actual links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-zimmer-4b482b252/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chrispathway)
-
-<br/>
-
 
 </div>
 
 ---
 
-```text
-Finance Student | Data Scientist 
-```
+### `Finance Student | Data Scientist`
 
 Hey! I'm Chris 👋
 
-I'm a finance graduate who self-taught programming and fell in love with data. I'm passionate about **Python**, **Machine Learning**, and turning complex data into actionable insights.
+Finance graduate from **Goethe University**, self-taught programmer with a deep interest in **Data Science** and **Machine Learning**.  
+Experience in **strategy consulting** and as a **Data Scientist at an investment fund**.
 
-I completed my **Bachelor's in Finance** and have since gained hands-on experience in **strategy consulting** and as a **Data Scientist at an investment fund** — where I got to combine my finance background with real-world machine learning applications.
-
-I believe the intersection of **finance and technology** is where the most exciting problems live, and that's exactly where I want to be.
+Currently **building in public** with over **110,000 followers on Instagram** and planning to pursue further education in **Data Science / Machine Learning**.
 
 ---
 
@@ -31,11 +24,11 @@ I believe the intersection of **finance and technology** is where the most excit
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,typescript,docker,r&theme=dark" alt="Tech Stack" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="48" height="48" style="margin-left: 8px;" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,typescript,docker,r,gcp&theme=dark" alt="Tech Stack" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="48" height="48" />
+<img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt" width="48" height="48" />
 
-</div>
-<div align="center">
+<br/><br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -48,6 +41,9 @@ I believe the intersection of **finance and technology** is where the most excit
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Dagster](https://img.shields.io/badge/Dagster-4F43DD?style=flat-square&logo=dagster&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 
 </div>
 
@@ -62,8 +58,8 @@ I believe the intersection of **finance and technology** is where the most excit
 
 ---
 
-<br/>
+<div align="center">
 
-From [chrispathway](https://github.com/chrispathway) updated as of February 2026
+*From [chrispathway](https://github.com/chrispathway) · Updated February 2026*
 
 </div>
