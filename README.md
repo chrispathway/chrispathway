@@ -16,7 +16,7 @@ Hey! I'm Chris 👋
 Finance graduate from **Goethe University**, self-taught programmer with a deep interest in **Data Science** and **Machine Learning**.  
 Experience in **strategy consulting** and as a **Data Scientist at an investment fund**.
 
-Currently **building in public** with over **120,000 followers on Instagram** and planning to pursue further education in **Data Science / Machine Learning**.
+Currently **building in public** with over **130,000 followers on Instagram** and planning to pursue further education in **Data Science / Machine Learning**.
 
 ---
 
