@@ -20,14 +20,9 @@ Currently **building in public** with over **130,000 followers on Instagram** an
 
 ---
 
-## 🧰 Languages and Tools
+## Languages and Tools
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,typescript,docker,r,gcp&theme=dark" alt="Tech Stack" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="48" height="48" />
-<img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt" width="48" height="48" />
-
 <br/><br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -49,7 +44,7 @@ Currently **building in public** with over **130,000 followers on Instagram** an
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - **Deep Learning** — CNNs, RNNs, Transformers
 - **Machine Learning for Finance** — time series forecasting, risk modeling
