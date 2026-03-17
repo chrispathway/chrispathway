@@ -1,6 +1,9 @@
+<p align="center">
+  <img src="banner.png" alt="Profile Banner" width="800"/>
+</p>
 <div align="center">
 
-# I like solving complex problems
+# I like coding and finance
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-zimmer-4b482b252/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chrispathway)
