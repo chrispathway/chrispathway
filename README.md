@@ -19,7 +19,7 @@ Hey! I'm Chris 👋
 Finance graduate from **Goethe University**, self-taught programmer with a deep interest in **Data Science** and **Machine Learning**.  
 Experience in **strategy consulting** and as a **Data Scientist at an investment fund**.
 
-Currently **building in public** with over **140,000 followers on Instagram** and planning to pursue further education in **Data Science / Machine Learning**.
+Currently **building in public** with over **180,000 followers on Instagram** and planning to pursue further education in **Data Science / Machine Learning**.
 
 ---
 
@@ -58,6 +58,6 @@ Currently **building in public** with over **140,000 followers on Instagram** an
 
 <div align="center">
 
-*From [chrispathway](https://github.com/chrispathway) · Updated March 2026*
+*From [chrispathway](https://github.com/chrispathway) · Updated May 2026*
 
 </div>
