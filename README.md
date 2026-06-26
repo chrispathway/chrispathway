@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Profile Banner" width="800"/>
-</p>
-<div align="center">
-
 # I like coding and finance
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-zimmer-4b482b252/)
@@ -19,7 +14,7 @@ Hey! I'm Chris 👋
 Finance graduate from **Goethe University**, self-taught programmer with a deep interest in **Data Science** and **Machine Learning**.  
 Experience in **strategy consulting** and as a **Data Scientist at an investment fund**.
 
-Currently **building in public** with over **180,000 followers on Instagram** and planning to pursue further education in **Data Science / Machine Learning**.
+Currently **building in public** with over **240,000 followers on Instagram** and planning to pursue further education in **Data Science / Machine Learning**.
 
 ---
 
@@ -58,6 +53,6 @@ Currently **building in public** with over **180,000 followers on Instagram** an
 
 <div align="center">
 
-*From [chrispathway](https://github.com/chrispathway) · Updated May 2026*
+*From [chrispathway](https://github.com/chrispathway) · Updated July 2026*
 
 </div>
