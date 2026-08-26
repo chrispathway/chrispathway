@@ -1,24 +1,22 @@
-# I like coding and finance
+# I like building stuff with AI
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-zimmer-4b482b252/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chrispathway)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@chrispathway)
 
 </div>
 
 ---
 
-### `Finance Student | Data Scientist`
+Hi, I'm Chris, a statistics student at ETH Zürich, previously economics at Goethe University. Self-taught programmer with a deep interest in data science and machine learning. Experience in strategy consulting, data science and at an investment fund.
 
-Hey! I'm Chris 👋
-
-Finance graduate from **Goethe University**, self-taught programmer with a deep interest in **Data Science** and **Machine Learning**.  
-Experience in **strategy consulting** and as a **Data Scientist at an investment fund**.
-
-Currently **building in public** with over **240,000 followers on Instagram** and planning to pursue further education in **Data Science / Machine Learning**.
+Currently based in Zürich and building in public with 300,000+ followers across social media platforms.
 
 ---
 
-## Languages and Tools
+## Stack
 
 <div align="center">
 <br/><br/>
@@ -27,8 +25,6 @@ Currently **building in public** with over **240,000 followers on Instagram** an
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -43,16 +39,19 @@ Currently **building in public** with over **240,000 followers on Instagram** an
 ---
 
 ## Currently Learning
+- **Quantitative Finance**
+- **Statistical Learning**
+- **Physical AI**
 
-- **Deep Learning** — CNNs, RNNs, Transformers
-- **Machine Learning for Finance** — time series forecasting, risk modeling
-- **Advanced ML Topics** — feature engineering, model optimization, MLOps
-- **Quantitative Analysis** — statistical modeling & algorithmic strategies
+---
+
+## Get in Touch
+
+Building something interesting at the intersection of AI, machine learning and finance? 
+Feel free to reach out: **info.chrispathway@gmail.com**
 
 ---
 
 <div align="center">
-
-*From [chrispathway](https://github.com/chrispathway) · Updated July 2026*
-
+Updated August 2026*
 </div>
