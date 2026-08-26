@@ -36,12 +36,6 @@ Currently based in Zürich and building in public with 300,000+ followers across
 
 </div>
 
----
-
-## Currently Learning
-- **Quantitative Finance**
-- **Statistical Learning**
-- **Physical AI**
 
 ---
 
