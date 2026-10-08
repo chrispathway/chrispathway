@@ -46,5 +46,5 @@ Feel free to reach out: **info.chrispathway@gmail.com**
 ---
 
 <div align="center">
-Updated August 2026*
+Updated October 2026*
 </div>
